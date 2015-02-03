@@ -1,0 +1,25 @@
+This is a ballot example for the online General Assembly.
+
+Everything below this line suddenly becomes a ballot!
+
+---
+
+% Member code (DE, CZ, CAT, etc): DE
+
+# Statute Amendment Proposals
+
+## SAP-1: Something great
+
+URL, general blurb.
+
+* SAP-1: y
+
+== Motions ==
+
+## MOP-1: A formal motion of some kind
+
+Url and shit goes here
+
+* MOP-1: n
+
+---
